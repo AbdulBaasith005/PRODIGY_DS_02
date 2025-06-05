@@ -37,6 +37,12 @@ The Titanic dataset contains information on passengers, such as:
 - Seaborn
 - Matplotlib
 
+## 📦 Dependencies
+
+```bash
+pip install pandas matplotlib seaborn
+```
+
 ## 📈 Visualizations
 
 - **Survival Count**
